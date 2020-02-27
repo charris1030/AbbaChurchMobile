@@ -1,0 +1,2 @@
+rootProject.name='Abba Church'
+include ':app'
