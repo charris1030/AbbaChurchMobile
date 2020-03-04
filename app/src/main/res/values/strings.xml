@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Abba Church</string>
     <string name="title_home">Home</string>
+    <string name="spinner_title">Church Location</string>
+    <string name="title_donate">Donate</string>
+    <string name="client_id">your_client_id</string>
+    <string name="callback_url">https://instagram.com/</string>
+    <string name="base_url">https://api.instagram.com/</string>
 <!--    <string name="title_dashboard">Dashboard</string>-->
 <!--    <string name="title_notifications">Notifications</string>-->
 </resources>

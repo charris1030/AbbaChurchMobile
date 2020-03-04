@@ -11,4 +11,10 @@
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
+    <fragment
+        android:id="@+id/navigation_donate"
+        android:name="com.example.abbachurch.ui.donate.DonateFragment"
+        android:label="@string/title_donate"
+        tools:layout="@layout/fragment_donate" />
+
 </navigation>

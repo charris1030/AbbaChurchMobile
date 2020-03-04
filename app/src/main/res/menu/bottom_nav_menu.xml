@@ -6,4 +6,9 @@
         android:icon="@color/colorPrimaryDark"
         android:title="@string/title_home" />
 
+    <item
+        android:id="@+id/navigation_donate"
+        android:icon="@color/colorPrimaryDark"
+        android:title="@string/title_donate" />
+
 </menu>

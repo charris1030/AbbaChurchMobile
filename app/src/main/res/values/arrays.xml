@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="church_locations_array">
+            <item>Boston (Melrose)</item>
+            <item>Marlborough</item>
+        </string-array>
+</resources>
